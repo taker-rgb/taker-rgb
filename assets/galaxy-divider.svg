@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 48" width="100%" role="img" aria-label="Decorative galaxy divider">
+<defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#7856C8" stop-opacity="0"/><stop offset="0.5" stop-color="#398BDB" stop-opacity="0.85"/><stop offset="1" stop-color="#7856C8" stop-opacity="0"/></linearGradient></defs>
+<line x1="40" y1="24" x2="1160" y2="24" stroke="url(#l)" stroke-width="1.2"/>
+<circle cx="600" cy="24" r="14" fill="none" stroke="#DCE4F2" stroke-opacity="0.35"/>
+<path d="M600 12 L603 21 L612 24 L603 27 L600 36 L597 27 L588 24 L597 21 Z" fill="#56D9E8" fill-opacity="0.9"/>
+<circle cx="520" cy="24" r="1.8" fill="#DCE4F2" fill-opacity="0.7"/><circle cx="680" cy="24" r="1.8" fill="#DCE4F2" fill-opacity="0.7"/>
+<circle cx="440" cy="24" r="1.2" fill="#DCE4F2" fill-opacity="0.5"/><circle cx="760" cy="24" r="1.2" fill="#DCE4F2" fill-opacity="0.5"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" role="img" aria-label="Decorative planetary orbits">
+<defs><radialGradient id="s" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#F4F6FC"/><stop offset="0.35" stop-color="#56D9E8" stop-opacity="0.6"/><stop offset="1" stop-color="#56D9E8" stop-opacity="0"/></radialGradient></defs>
+<g fill="none" stroke="#DCE4F2" stroke-opacity="0.22">
+<ellipse cx="200" cy="200" rx="70" ry="26" transform="rotate(-25 200 200)"/>
+<ellipse cx="200" cy="200" rx="115" ry="43" transform="rotate(-25 200 200)"/>
+<ellipse cx="200" cy="200" rx="160" ry="60" transform="rotate(-25 200 200)" stroke-dasharray="3 6"/>
+<ellipse cx="200" cy="200" rx="195" ry="74" transform="rotate(-25 200 200)" stroke-opacity="0.12"/>
+</g>
+<circle cx="200" cy="200" r="34" fill="url(#s)"/><circle cx="200" cy="200" r="4" fill="#F4F6FC"/>
+<circle cx="136" cy="226" r="4" fill="#56D9E8"/>
+<circle cx="285" cy="152" r="5" fill="#7856C8"/><circle cx="285" cy="152" r="9" fill="none" stroke="#7856C8" stroke-opacity="0.5"/>
+<circle cx="345" cy="262" r="3" fill="#DCE4F2"/>
+<circle cx="70" cy="120" r="2.4" fill="#398BDB"/>
+</svg>
