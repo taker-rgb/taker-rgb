@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 190" width="100%" role="img" aria-label="SPECTRAL ANALYSIS · LANGUAGES BY REPOSITORY">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#101A30"/><stop offset="1" stop-color="#080B14"/></linearGradient>
+<linearGradient id="b" x1="0" x2="1"><stop offset="0" stop-color="#7856C8"/><stop offset="1" stop-color="#56D9E8"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="1199" height="189" rx="14" fill="url(#g)" stroke="#DCE4F2" stroke-opacity="0.18"/>
+<text x="40" y="44" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="12" letter-spacing="3" fill="#DCE4F2" fill-opacity="0.6">SPECTRAL ANALYSIS · LANGUAGES BY REPOSITORY</text>
+<line x1="40" y1="56" x2="1160" y2="56" stroke="#DCE4F2" stroke-opacity="0.15"/>
+<text x="40" y="115" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" fill="#DCE4F2" fill-opacity="0.7">Languages will appear here once public repositories are scanned.</text>
+<text x="1160" y="174" text-anchor="end" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="10" letter-spacing="2" fill="#DCE4F2" fill-opacity="0.35">AWAITING FIRST SCAN</text>
+</svg>
